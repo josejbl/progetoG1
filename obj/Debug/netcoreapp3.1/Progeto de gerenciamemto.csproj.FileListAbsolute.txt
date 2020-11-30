@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.exe
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.deps.json
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.runtimeconfig.json
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.dll
+C:\Users\fic\Desktop\Progeto de gerenciamemto\bin\Debug\netcoreapp3.1\Progeto de gerenciamemto.pdb
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.AssemblyInfo.cs
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.dll
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.pdb
+C:\Users\fic\Desktop\Progeto de gerenciamemto\obj\Debug\netcoreapp3.1\Progeto de gerenciamemto.genruntimeconfig.cache
